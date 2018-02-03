@@ -7,6 +7,8 @@ public class GitApplication {
 		System.out.println("hello world");
 		System.out.println("Staging");
 		System.out.println("Diff");
+		System.out.println("1");
+	
 	}
 
 }
