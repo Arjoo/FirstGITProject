@@ -11,7 +11,7 @@ public class GitApplication {
 		System.out.println("2");
 		System.out.println("ammend");
 		System.out.println("checkout");
-		
+		System.out.println("ws_2");
 	}
 
 }
