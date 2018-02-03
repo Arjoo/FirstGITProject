@@ -15,7 +15,7 @@ public class GitApplication {
 		System.out.println("ws_1");
 		System.out.println("commiting in master branch");
 		System.out.println("merging issue by ws_1");
-		
+		System.out.println("merging");
 	}
 
 }
